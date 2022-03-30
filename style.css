@@ -1,0 +1,32 @@
+.container {
+    background-color: brown;
+    display: grid;
+    justify-content: center;
+    grid-template-columns: 100px 100px 100px 100px 100px;
+    width: 90%;
+    margin: auto;
+    background-color: white;
+    color: white;
+    padding: 0;
+}
+
+.item {
+    height: 70px;
+    border: 1.9px black solid;
+    border-collapse: collapse;
+}
+
+button {
+    background-color: green;
+}
+
+#red {
+    background-color: red;
+}
+
+input {
+    width: 160px;
+}
+.box12 {
+    visibility: hidden;
+}
